@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AeroBuilder</string>
+    <string name="title_activity_main">AeroBuilder</string>
+    <string name="package_name">com.sinasi.aeroplan</string>
+    <string name="custom_url_scheme">com.sinasi.aeroplan</string>
+</resources>

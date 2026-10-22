@@ -1,0 +1,158 @@
+{
+  "site": "https://aerobuilder-calc.netlify.app",
+  "default": "en",
+  "langs": {
+    "pt": {
+      "html": "pt-BR",
+      "og": "pt_BR",
+      "title": "AeroBuilder — Calculadora de CG e projeto de aeromodelos (STL)",
+      "description": "Projete aeromodelos e asas voadoras no navegador: CG, margem estática, peso e balanceamento, gabaritos 1:1 em PDF e peças STL para impressão 3D em LW-PLA. Grátis.",
+      "keywords": "calculadora de cg aeromodelo, centro de gravidade aeromodelo, projeto de aeromodelo, aeromodelismo, asa voadora zagi, stl aeromodelo, impressão 3d aeromodelo, lw-pla, planta de aeromodelo, gabarito depron, margem estática, corda média aerodinâmica",
+      "ogTitle": "AeroBuilder — projete, confira e imprima seu aeromodelo",
+      "ogDescription": "CG, margem estática, peso e balanceamento, gabaritos 1:1 e STL para impressão 3D em LW-PLA. Grátis, no navegador.",
+      "h1": "AeroBuilder — projeto de aeromodelos no navegador",
+      "intro": "Desenhe um avião convencional ou uma asa voadora, confira se ele voa e prepare a construção: tudo grátis, sem instalar nada.",
+      "features": [
+        "Calculadora de CG: corda média aerodinâmica, ponto neutro e margem estática",
+        "Peso e balanceamento com posição da bateria, servos, ESC e receptor",
+        "Gabaritos em escala 1:1 em PDF para depron e balsa",
+        "Peças STL para impressão 3D em LW-PLA (modo vaso) com canais de longarina",
+        "Exemplos prontos: treinador, esportivo, motoplanador e asa voadora estilo Zagi"
+      ],
+      "loading": "Carregando o AeroBuilder…"
+    },
+    "tr": {
+      "html": "tr",
+      "og": "tr_TR",
+      "title": "AeroBuilder — Ücretsiz RC Uçak Tasarımcısı ve CG Hesaplayıcı (STL)",
+      "description": "RC uçak ve uçan kanatları tarayıcınızda tasarlayın: ağırlık merkezi (CG), statik marj, ağırlık ve denge, 1:1 PDF şablonlar ve LW-PLA ile 3D baskıya uygun STL parçalar. Ücretsiz.",
+      "keywords": "rc uçak cg hesaplama, ağırlık merkezi hesaplayıcı, rc uçak tasarımı, uçan kanat cg, zagi, 3d baskı rc uçak, lw-pla stl, rc plan, strafor şablon, statik marj, ortalama aerodinamik veter",
+      "ogTitle": "AeroBuilder — RC uçağınızı tasarlayın, kontrol edin ve yazdırın",
+      "ogDescription": "CG, statik marj, ağırlık ve denge, 1:1 şablonlar ve LW-PLA 3D baskı için STL. Ücretsiz, tarayıcınızda.",
+      "h1": "AeroBuilder — tarayıcınızda RC uçak tasarımı",
+      "intro": "Klasik bir uçak ya da uçan kanat çizin, uçacağını kontrol edin ve inşaata hazır hâle getirin — ücretsiz, kurulum gerekmez.",
+      "features": [
+        "CG hesaplayıcı: ortalama aerodinamik veter, nötr nokta ve statik marj",
+        "Batarya, servo, ESC ve alıcı yerleşimiyle ağırlık ve denge",
+        "Strafor ve balsa için 1:1 ölçekli PDF şablonlar",
+        "LW-PLA vazo modu için 3D baskıya uygun STL parçalar (kiriş kanallı)",
+        "Hazır örnekler: eğitim uçağı, sportif model, motorlu planör ve Zagi tipi uçan kanat"
+      ],
+      "loading": "AeroBuilder yükleniyor…"
+    },
+    "en": {
+      "html": "en",
+      "og": "en_US",
+      "title": "AeroBuilder — Free RC Plane Designer & CG Calculator (STL)",
+      "description": "Design RC airplanes and flying wings in your browser: CG, static margin, weight & balance, 1:1 PDF templates and 3D-printable LW-PLA STL parts. Free.",
+      "keywords": "rc airplane cg calculator, center of gravity calculator, rc plane designer, flying wing cg, zagi, 3d printed rc plane, lw-pla stl, scratch build rc plans, foam board templates, static margin, mean aerodynamic chord",
+      "ogTitle": "AeroBuilder — design, check and print your RC plane",
+      "ogDescription": "CG, static margin, weight & balance, 1:1 templates and STL for LW-PLA 3D printing. Free, in your browser.",
+      "h1": "AeroBuilder — RC aircraft design in your browser",
+      "intro": "Draw a conventional plane or a flying wing, check that it flies and get it ready to build — free, nothing to install.",
+      "features": [
+        "CG calculator: mean aerodynamic chord, neutral point and static margin",
+        "Weight & balance with the battery, servos, ESC and receiver placed for you",
+        "1:1 scale PDF templates for foam board and balsa",
+        "3D-printable STL parts for LW-PLA vase mode, with spar channels",
+        "Ready-made examples: trainer, sport plane, motor glider and Zagi-style flying wing"
+      ],
+      "loading": "Loading AeroBuilder…"
+    },
+    "es": {
+      "html": "es",
+      "og": "es_ES",
+      "title": "AeroBuilder — Diseño de aeromodelos y calculadora de CG (STL)",
+      "description": "Diseña aeromodelos y alas volantes en el navegador: CG, margen estático, peso y centrado, plantillas 1:1 en PDF y piezas STL para impresión 3D en LW-PLA. Gratis.",
+      "keywords": "calculadora cg aeromodelo, centro de gravedad aeromodelo, diseño de aeromodelos, aeromodelismo, ala volante zagi, avión rc impreso en 3d, stl aeromodelo, lw-pla, planos aeromodelo, plantillas depron, margen estático",
+      "ogTitle": "AeroBuilder — diseña, comprueba e imprime tu aeromodelo",
+      "ogDescription": "CG, margen estático, peso y centrado, plantillas 1:1 y STL para impresión 3D en LW-PLA. Gratis, en el navegador.",
+      "h1": "AeroBuilder — diseño de aeromodelos en el navegador",
+      "intro": "Dibuja un avión convencional o un ala volante, comprueba que vuela y prepáralo para construir: gratis y sin instalar nada.",
+      "features": [
+        "Calculadora de CG: cuerda aerodinámica media, punto neutro y margen estático",
+        "Peso y centrado con la posición de la batería, servos, ESC y receptor",
+        "Plantillas a escala 1:1 en PDF para depron y balsa",
+        "Piezas STL para impresión 3D en LW-PLA (modo vaso) con canales para largueros",
+        "Ejemplos listos: entrenador, deportivo, motoplaneador y ala volante estilo Zagi"
+      ],
+      "loading": "Cargando AeroBuilder…"
+    },
+    "fr": {
+      "html": "fr",
+      "og": "fr_FR",
+      "title": "AeroBuilder — Conception d'avion RC et calcul du CG (STL)",
+      "description": "Concevez avions RC et ailes volantes dans le navigateur : CG, marge statique, masse et centrage, gabarits 1:1 en PDF et pièces STL pour impression 3D en LW-PLA. Gratuit.",
+      "keywords": "calcul centre de gravité avion rc, calcul cg aéromodélisme, conception avion rc, aéromodélisme, aile volante zagi, avion rc imprimé 3d, stl avion rc, lw-pla, plans avion rc, gabarits dépron, marge statique",
+      "ogTitle": "AeroBuilder — concevez, vérifiez et imprimez votre avion RC",
+      "ogDescription": "CG, marge statique, masse et centrage, gabarits 1:1 et STL pour l'impression 3D en LW-PLA. Gratuit, dans le navigateur.",
+      "h1": "AeroBuilder — conception d'avions RC dans le navigateur",
+      "intro": "Dessinez un avion classique ou une aile volante, vérifiez qu'il vole et préparez la construction : gratuit, rien à installer.",
+      "features": [
+        "Calcul du CG : corde aérodynamique moyenne, foyer et marge statique",
+        "Masse et centrage avec placement de la batterie, des servos, de l'ESC et du récepteur",
+        "Gabarits à l'échelle 1:1 en PDF pour dépron et balsa",
+        "Pièces STL pour impression 3D en LW-PLA (mode vase) avec canaux de longerons",
+        "Exemples prêts à l'emploi : trainer, sport, motoplaneur et aile volante type Zagi"
+      ],
+      "loading": "Chargement d'AeroBuilder…"
+    },
+    "it": {
+      "html": "it",
+      "og": "it_IT",
+      "title": "AeroBuilder — Calcolo baricentro e progettazione aeromodelli RC (STL)",
+      "description": "Progetta aeromodelli e ali volanti nel browser: baricentro (CG), margine statico, pesi e centraggio, dime 1:1 in PDF e parti STL in LW-PLA per la stampa 3D. Gratis.",
+      "keywords": "calcolo baricentro aeromodello, centro di gravità aeromodello, progettazione aeromodelli, aeromodellismo, ala volante zagi, stl aeromodello, aeromodello stampato 3d, lw-pla, piani aeromodello, dime depron, margine statico, corda media aerodinamica",
+      "ogTitle": "AeroBuilder — progetta, verifica e stampa il tuo aeromodello",
+      "ogDescription": "Baricentro, margine statico, pesi e centraggio, dime 1:1 e STL per la stampa 3D in LW-PLA. Gratis, nel browser.",
+      "h1": "AeroBuilder — progettazione di aeromodelli RC nel browser",
+      "intro": "Disegna un aereo convenzionale o un'ala volante, verifica che voli e preparalo per la costruzione: gratis, senza installare nulla.",
+      "features": [
+        "Calcolo del baricentro: corda media aerodinamica, punto neutro e margine statico",
+        "Pesi e centraggio con batteria, servi, ESC e ricevente posizionati per te",
+        "Dime in scala 1:1 in PDF per depron e balsa",
+        "Parti STL per la stampa 3D in LW-PLA (modalità vaso) con canali per i longheroni",
+        "Esempi pronti: trainer, acrobatico sportivo, motoaliante e ala volante tipo Zagi"
+      ],
+      "loading": "Caricamento di AeroBuilder…"
+    },
+    "zh": {
+      "html": "zh-CN",
+      "og": "zh_CN",
+      "title": "AeroBuilder — 免费航模设计与重心计算（3D 打印 STL）",
+      "description": "在浏览器中设计遥控飞机和飞翼：重心、静稳定裕度、重量与平衡，导出 1:1 PDF 图纸和 LW-PLA 3D 打印 STL 零件。完全免费。",
+      "keywords": "航模重心计算, 航模设计, 遥控飞机设计, 飞翼, Zagi, 3D打印航模, LW-PLA, STL, 航模图纸, KT板飞机, 静稳定裕度, 平均气动弦长",
+      "ogTitle": "AeroBuilder —— 设计、检查并打印你的航模",
+      "ogDescription": "重心、静稳定裕度、重量与平衡、1:1 图纸以及 LW-PLA 3D 打印 STL。免费，直接在浏览器中使用。",
+      "h1": "AeroBuilder —— 在浏览器中设计航模",
+      "intro": "设计常规布局飞机或飞翼，检查它能否飞行，并准备好制作——完全免费，无需安装。",
+      "features": [
+        "重心计算：平均气动弦长、中性点和静稳定裕度",
+        "重量与平衡：自动放置电池、舵机、电调和接收机",
+        "1:1 比例 PDF 图纸，适用于 KT 板和轻木",
+        "用于 LW-PLA 花瓶模式 3D 打印的 STL 零件，带翼梁通道",
+        "现成示例：教练机、运动机、电动滑翔机和 Zagi 风格飞翼"
+      ],
+      "loading": "正在加载 AeroBuilder…"
+    },
+    "hi": {
+      "html": "hi",
+      "og": "hi_IN",
+      "title": "AeroBuilder — RC विमान डिज़ाइनर और CG कैलकुलेटर (STL) – मुफ़्त",
+      "description": "ब्राउज़र में RC हवाई जहाज़ और फ़्लाइंग विंग डिज़ाइन करें: CG (गुरुत्व केंद्र), स्टैटिक मार्जिन, वज़न और संतुलन, 1:1 PDF टेम्पलेट और LW-PLA 3D प्रिंटिंग के लिए STL पार्ट्स। मुफ़्त।",
+      "keywords": "rc विमान cg कैलकुलेटर, गुरुत्व केंद्र कैलकुलेटर, rc plane cg calculator, rc हवाई जहाज़ डिज़ाइन, फ़्लाइंग विंग, zagi, 3d प्रिंटेड rc विमान, lw-pla stl, rc plane india, foam board rc plane, स्टैटिक मार्जिन",
+      "ogTitle": "AeroBuilder — अपना RC विमान डिज़ाइन करें, जाँचें और प्रिंट करें",
+      "ogDescription": "CG, स्टैटिक मार्जिन, वज़न और संतुलन, 1:1 टेम्पलेट और LW-PLA 3D प्रिंटिंग के लिए STL। मुफ़्त, आपके ब्राउज़र में।",
+      "h1": "AeroBuilder — ब्राउज़र में RC विमान डिज़ाइन",
+      "intro": "पारंपरिक विमान या फ़्लाइंग विंग बनाएँ, जाँचें कि वह उड़ेगा और उसे बनाने के लिए तैयार करें — मुफ़्त, कुछ भी इंस्टॉल किए बिना।",
+      "features": [
+        "CG कैलकुलेटर: मीन एरोडायनामिक कॉर्ड, न्यूट्रल पॉइंट और स्टैटिक मार्जिन",
+        "वज़न और संतुलन: बैटरी, सर्वो, ESC और रिसीवर की स्थिति अपने आप",
+        "फ़ोम बोर्ड और बाल्सा के लिए 1:1 स्केल PDF टेम्पलेट",
+        "LW-PLA वास मोड 3D प्रिंटिंग के लिए STL पार्ट्स, स्पार चैनलों के साथ",
+        "तैयार उदाहरण: ट्रेनर, स्पोर्ट विमान, मोटर ग्लाइडर और Zagi जैसी फ़्लाइंग विंग"
+      ],
+      "loading": "AeroBuilder लोड हो रहा है…"
+    }
+  }
+}

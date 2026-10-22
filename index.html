@@ -1,0 +1,41 @@
+<!doctype html>
+<!-- App in 5 languages; SEO block filled at build time by seo/seoPlugin.ts -->
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--seo:head--><!--/seo:head-->
+    <meta name="theme-color" content="#0284c7" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+    <!--
+      Google Analytics 4 only with consent (LGPD). Consent Mode v2 starts with
+      everything denied and gtag.js is not even loaded until the visitor accepts
+      in the cookie banner (src/components/ConsentBanner.tsx).
+    -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('consent', 'default', { analytics_storage: 'denied', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' });
+      window.__abLoadAnalytics = function () {
+        if (window.__abGaLoaded) return;
+        window.__abGaLoaded = true;
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-8RSEPZH3MW';
+        document.head.appendChild(s);
+        gtag('js', new Date());
+        gtag('config', 'G-8RSEPZH3MW');
+      };
+      try { if (localStorage.getItem('aerobuilder_consent') === 'granted') window.__abLoadAnalytics(); } catch (e) { /* storage blocked */ }
+    </script>
+  </head>
+  <body>
+    <div id="root"><!--seo:body--><!--/seo:body--></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
