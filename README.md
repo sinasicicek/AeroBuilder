@@ -1,5 +1,15 @@
 # AeroBuilder
 
+> **Türkçe fork:** Bu depo, [Alvaromarcus/Airplane_model](https://github.com/Alvaromarcus/Airplane_model)
+> projesinin (MIT) Türkçe + native Android sürümüdür. Orijinal İngilizce README aşağıdadır;
+> forkumuzun gerçek durumu, mimarisi ve tuzakları için **[PROJE-DOKUMAN.md](PROJE-DOKUMAN.md)**,
+> APK derleme adımları için **[README-NATIVE.md](README-NATIVE.md)** dosyasına bakın.
+>
+> Forkta eklenenler: 8 dilli arayüz (TR/EN/ES/FR/IT/PT/ZH/HI) · Capacitor 7 native Android
+> kabuğu · manuel gövde istasyonu düzenleyici (PCHIP) · kuyruk tipi reçeteleri (T / V / ters V / haç) ·
+> ayarlanabilir kanat kalınlığı + 8 kanat profili · çok tablalı baskı planı · cihaz içi STL arşivi
+> ve STL görüntüleyici · model kütüphanesi (sürüm geçmişi, JSON dışa/içe aktarma).
+
 **AeroBuilder** is an interactive, web-based application tailored for aeromodelling enthusiasts. It allows you to design RC monoplane aircraft by inputting dimensions, verifying aerodynamic stability in real-time, and generating 1:1 scale templates ready for physical construction (using materials like Depron or Balsa wood).
 
 ## Live Demo
